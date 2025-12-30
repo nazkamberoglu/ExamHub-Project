@@ -1,0 +1,61 @@
+﻿@model ExamVM
+@{
+    ViewData["Title"] = "MyAccount";
+    Layout = "~/Views/Shared/_SiteLayout.cshtml";
+}
+
+
+<div class="row">
+    <div class="col-md-8 mx-auto">
+        <div class="student-card shadow">
+            <div class="header-bar">
+                <h4 class="mb-0">Student Profile</h4>
+            </div>
+
+            <div class="card-body">
+                <p><span>Name:</span> @Model.Student.StudentName</p>
+                <p><span>Last Name:</span> @Model.Student.StudentLastName</p>
+                <p><span>User Name:</span> @Model.Student.UserName</p>
+
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<style>
+    .student-card {
+        background: white;
+        border-radius: 14px;
+        overflow: hidden;
+        border: 1px solid #d8e7ff;
+    }
+
+    .header-bar {
+        background: linear-gradient(90deg, #0066ff, #4da3ff);
+        padding: 15px 20px;
+        color: white;
+        font-weight: bold;
+        letter-spacing: 0.5px;
+    }
+
+    .student-card .card-body {
+        padding: 25px;
+        font-size: 17px;
+        color: #003366;
+    }
+
+    .student-card p {
+        background: #f3f8ff;
+        padding: 12px 15px;
+        border-radius: 10px;
+        margin-bottom: 12px;
+        border: 1px solid #e0edff;
+    }
+
+        .student-card p span {
+            font-weight: 600;
+            color: #004bb5;
+        }
+</style>

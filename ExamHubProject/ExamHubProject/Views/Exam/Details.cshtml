@@ -1,0 +1,53 @@
+﻿@model ExamHubProject.Models.Entities.Exam
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Exam Details</h2>
+
+<div class="row">
+    <dt class="col-sm-2">Lesson:</dt>
+    <dd class="col-sm-10">@Model.Lesson?.LessonName</dd>
+
+    <dt class="col-sm-2">Question Count:</dt>
+    <dd class="col-sm-10">@Model.QuestionCount</dd>
+
+    <dt class="col-sm-2">PDF:</dt>
+    <dd class="col-sm-10">
+        <p><a href="@Model.PdfPath" target="_blank">Go Exam</a></p>
+    </dd>
+
+    <dt class="col-sm-2">Optical:</dt>
+    <dd class="col-sm-10">
+ 
+        @if (!string.IsNullOrEmpty(Model.OpticalJson))
+        {
+            var list = System.Text.Json.JsonSerializer.Deserialize<List<OpticalDTO>>(Model.OpticalJson);
+
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Soru No</th>
+                        <th>Cevap</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in list)
+                    {
+                        <tr>
+                            <td>@item.SoruNo</td>
+                            <td>@item.Cevap</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+        else
+        {
+            <p>Optik yok.</p>
+        }
+    </dd>
+</div>
+
+<a class="btn btn-secondary" href="/Exam/Index">Back</a>

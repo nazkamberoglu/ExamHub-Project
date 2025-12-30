@@ -1,0 +1,45 @@
+﻿@model ExamVM
+
+<h2 class="mb-4">Sınavlarım</h2>
+
+<div class="row g-3">
+    @foreach (var item in Model.studentExams)
+    {
+        <div class="col-md-4">
+            <div class="card exam-card shadow-sm">
+                <div class="card-header bg-primary text-white">
+                    <h5 class="mb-0">@item.Exam.ExamName</h5>
+                </div>
+                <div class="card-body">
+                    <p><strong>Puan:</strong> @Math.Round(item.ExamScore,0)</p>
+                    <p class="text-muted"><strong>Tarih:</strong> @item.ExamDate.ToString("dd.MM.yyyy HH:mm")</p>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+<style>
+.exam-card {
+    border-radius: 12px;
+    transition: transform 0.3s, box-shadow 0.3s;
+    cursor: pointer;
+}
+
+.exam-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+}
+
+.card-header {
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.card-body p {
+    margin-bottom: 0.5rem;
+}
+
+
+}
+</style>

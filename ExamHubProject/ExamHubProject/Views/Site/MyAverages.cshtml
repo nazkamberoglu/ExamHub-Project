@@ -1,0 +1,143 @@
+﻿@model ExamVM
+@using System.Text.Json
+@{
+    ViewData["Title"] = "MyAverages";
+    Layout = "~/Views/Shared/_SiteLayout.cshtml";
+}
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-md-8">
+            <canvas id="lessonChart" style="max-height: 400px;"></canvas>
+        </div>
+
+        <div class="col-md-4">
+            <canvas id="myPieChart"></canvas>
+            <div id="noExamText" class="text-center mt-2" style="font-weight: 500; display:none;">
+                There are no saved exams yet.
+            </div>
+        </div>
+
+        <div class="col-md-12 mt-5">
+            <canvas id="myAreaChart" style="max-height: 350px;"></canvas>
+            <div id="noAreaText" class="text-center mt-2" style="font-weight: 500; display:none;">
+                There are no saved exams yet.
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<script>
+
+    var lessonNames = @Html.Raw(Json.Serialize(Model.LessonNames));
+    var lessonAverages = @Html.Raw(Json.Serialize(Model.LessonAverages));
+
+    var allZero = lessonAverages.length === 0;
+
+    if (allZero) {
+        lessonNames = ["There are no exams available for you yet."];
+        lessonAverages = [0];
+    }
+
+
+    var pastelColors = [
+        "rgba(255, 159, 243, 0.6)",
+        "rgba(129, 236, 236, 0.6)",
+        "rgba(250, 177, 160, 0.6)",
+        "rgba(116, 185, 255, 0.6)",
+        "rgba(162, 155, 254, 0.6)",
+        "rgba(255, 234, 167, 0.6)"
+    ];
+    var barColors = lessonAverages.map((_, i) => pastelColors[i % pastelColors.length]);
+
+    var titleFont = { size: 20, weight: 'bold', family: 'Arial, sans-serif' };
+
+    var barChartTitle = allZero ? "No Exam Data Yet" : "Your Exam Averages";
+    var pieChartTitle = allZero ? "No Exam Data Yet" : "Your Score Distribution by Course";
+    var areaChartTitle = allZero ? "No Data to Display" : "Your Performance Trend";
+
+    var ctx = document.getElementById('lessonChart').getContext('2d');
+    new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: lessonNames,
+            datasets: [{
+                label: 'Course Averages',
+                data: lessonAverages,
+                backgroundColor: barColors,
+                borderColor: barColors.map(c => c.replace("0.6", "1")),
+                borderWidth: 2,
+                borderRadius: 12,
+                hoverBackgroundColor: barColors.map(c => c.replace("0.6", "0.8")),
+            }]
+        },
+        options: {
+            responsive: true,
+            plugins: {
+                legend: { display: false },
+                title: { display: true, text: barChartTitle, font: titleFont, padding: { top: 10, bottom: 20 } }
+            },
+            scales: {
+                y: { min: 0, max: 100, ticks: { stepSize: 10, font: { size: 13 } } },
+                x: { ticks: { font: { size: 13 } } }
+            },
+            animation: { duration: 900, easing: 'easeOutQuad' }
+        }
+    });
+
+
+    var ctxPie = document.getElementById('myPieChart');
+    if (allZero) {
+        document.getElementById("noExamText").style.display = "block";
+        new Chart(ctxPie, {
+            type: 'pie',
+            data: {
+                labels: ["No exam data"],
+                datasets: [{
+                    data: [1],
+                    backgroundColor: ["rgba(0,0,0,0)"],
+                    borderColor: ["rgba(180,180,180,1)"],
+                    borderWidth: 2,
+                    hoverBackgroundColor: ["rgba(0,0,0,0)"]
+                }]
+            },
+            options: { plugins: { legend: { display: false }, title: { display: true, text: pieChartTitle, font: titleFont } } }
+        });
+    } else {
+        document.getElementById("noExamText").style.display = "none";
+        new Chart(ctxPie, {
+            type: 'pie',
+            data: { labels: lessonNames, datasets: [{ data: lessonAverages, backgroundColor: barColors, borderWidth: 1 }] },
+            options: { responsive: true, plugins: { legend: { position: 'bottom' }, title: { display: true, text: pieChartTitle, font: titleFont } } }
+        });
+    }
+
+
+    var ctxArea = document.getElementById('myAreaChart');
+    var noAreaText = document.getElementById("noAreaText");
+
+    if (allZero) {
+        noAreaText.style.display = "block";
+        var emptyGradient = ctxArea.getContext('2d').createLinearGradient(0, 0, 0, 300);
+        emptyGradient.addColorStop(0, "rgba(0,0,0,0)");
+        emptyGradient.addColorStop(1, "rgba(0,0,0,0)");
+        new Chart(ctxArea, {
+            type: 'line',
+            data: { datasets: [{ label: 'No Data', data: [0], fill: true, backgroundColor: emptyGradient, borderColor: "rgba(180,180,180,1)", borderWidth: 2, pointRadius: 0 }] },
+            options: { plugins: { legend: { display: false }, title: { display: true, text: areaChartTitle, font: titleFont } }, scales: { y: { min: 0, max: 100 } } }
+        });
+    } else {
+        noAreaText.style.display = "none";
+        var areaGradient = ctxArea.getContext('2d').createLinearGradient(0, 0, 0, 300);
+        areaGradient.addColorStop(0, "rgba(116, 185, 255, 0.5)");
+        areaGradient.addColorStop(1, "rgba(116, 185, 255, 0)");
+        new Chart(ctxArea, {
+            type: 'line',
+            data: { labels: lessonNames, datasets: [{ label: 'Course Trend', data: lessonAverages, fill: true, backgroundColor: areaGradient, borderColor: "rgba(116, 185, 255, 1)", borderWidth: 2, pointBorderColor: "rgba(116, 185, 255, 1)", pointBackgroundColor: "white", pointRadius: 5, tension: 0.3 }] },
+            options: { responsive: true, plugins: { legend: { display: false }, title: { display: true, text: areaChartTitle, font: titleFont } }, scales: { y: { min: 0, max: 100 } } }
+        });
+    }
+</script>
+   

@@ -1,0 +1,128 @@
+﻿@model ExamHubProject.Models.Entities.Student
+
+@{
+    ViewData["Title"] = "LogIn";
+}
+<p class="text-center title-text mt-5">ExamHub Project</p>
+
+<div class="row mt-5 gp-4">
+    <div class="col-md-8 mt-5 mx-auto">
+        <div class="card logIn-card">
+            <form asp-action="LogIn" method="post">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="form-group">
+                    <label asp-for="UserName" class="control-label"></label>
+                    <input asp-for="UserName" class="form-control" />
+                    <span asp-validation-for="UserName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Password" class="control-label"></label>
+                    <input asp-for="Password" type="password" class="form-control" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+                <div class="card-footer">
+                <div class="form-group text-center ">
+                    <input type="submit" value="Log In" class="btn btn-primary text-center" />
+
+                    <div class="mt-2">
+                        <p>Do you not an account? <a asp-action="SignIn" asp-controller="Security" class="btn btn-primary text-center"> Sign In</a></p>
+                    </div>
+                        <div class="mt-2">
+                            <p>
+                                Are you an admin?
+                                <a asp-action="AdminLogin" asp-controller="Security"
+                                   class="btn btn-primary">
+                                    Admin Log In
+                                </a>
+                            </p>
+                        </div>
+                </div>
+                </div>
+            </form>
+
+        </div>
+        
+    </div>
+</div>
+
+@if(ViewBag.Error!= null)
+{
+    <p class="alert-danger"> @ViewBag.Error</p>
+}
+
+<style>
+    .title-text
+    {
+        color:black;
+        font-size:50px;
+        font-weight:bold;
+    }
+    .logIn-card{
+        
+        border-radius:22px;
+        border: 1px solid #e4eeff;
+        box-shadow: 0px 4px 25px rgba(173, 204, 255, 0.25);
+        background: #f9fbff;
+        padding: 40px 35px;
+    }
+
+    .form-group{
+
+        margin-bottom:22px;
+    }
+
+    .form-control{
+        border-radius:14px;
+        border: 1px solid #d7e4ff;
+        padding:13px 15px;
+        font-size:15px;
+        transition: 0.25s;
+    }
+
+    .form-control:focus{
+            border-color: #a7c8ff;
+            box-shadow: 0 0 0 3px rgba(167, 200, 255, 0.35);
+    }
+
+    .btn-primary {
+        background: linear-gradient(90deg, #e2eeff, #cfe1ff);
+        border: none;
+        padding: 12px 25px;
+        border-radius: 14px;
+        font-size: 16px;
+        color: #00408b;
+        font-weight: 600;
+        transition: 0.25s ease-in-out;
+    }
+    .btn-primary:hover
+    {
+        transform: translateY(-2px);
+        box-shadow: 0px 6px 20px rgba(173, 204, 255, 0.45);
+        background: linear-gradient(90deg, #d6e6ff, #c1d9ff);
+    }
+
+    .card-footer
+    {
+        background: #f3f7ff;
+        padding: 18px 20px;
+        border-top: 1px solid #dce7ff;
+        border-radius: 0 0 22px 22px;
+    }
+    .card-footer p
+    {
+        margin-top:15px;
+    }
+
+    .card-footer p,
+    .card-footer a
+    {
+            color: #3366aa;
+    }
+
+            .card-footer a:hover,
+            .card-footer p:hover
+            {
+                text-decoration: none;
+            }
+</style>

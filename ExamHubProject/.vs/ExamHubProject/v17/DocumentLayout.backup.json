@@ -1,0 +1,933 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\views\\site\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\views\\site\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\controllers\\sitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\controllers\\sitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\views\\exam\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\views\\exam\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\views\\site\\examview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\views\\site\\examview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\controllers\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\controllers\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\views\\shared\\_sitelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\views\\shared\\_sitelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\models\\entities\\examvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\models\\entities\\examvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\views\\site\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\views\\site\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\models\\entities\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\models\\entities\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\views\\site\\myaverages.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\views\\site\\myaverages.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\views\\exam\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\views\\exam\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\views\\exam\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\views\\exam\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\models\\entities\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\models\\entities\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\views\\student\\verification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\views\\student\\verification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\views\\student\\myaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\views\\student\\myaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\views\\security\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\views\\security\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\views\\security\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\views\\security\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\models\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\models\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\views\\security\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\views\\security\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\views\\security\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\views\\security\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\models\\context\\projectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\models\\context\\projectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\models\\entities\\studentexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\models\\entities\\studentexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\models\\entities\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\models\\entities\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\views\\site\\lessonview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\views\\site\\lessonview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\views\\student\\examview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\views\\student\\examview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\wwwroot\\img\\f225c86d-1bd8-4332-bcbe-5db21e8714fa.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\wwwroot\\img\\f225c86d-1bd8-4332-bcbe-5db21e8714fa.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\views\\exam\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\views\\exam\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\views\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\views\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\views\\site\\studentexamindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\views\\site\\studentexamindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\views\\student\\averagescorechart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\views\\student\\averagescorechart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\views\\student\\avagarescore.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\views\\student\\avagarescore.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\models\\entities\\opticaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\models\\entities\\opticaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\migrations\\projectcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\migrations\\projectcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\views\\student\\passwordverification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\views\\student\\passwordverification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\views\\lesson\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\views\\lesson\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\views\\user\\s\u0131gnin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\views\\user\\s\u0131gnin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\views\\exam\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\views\\exam\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\views\\exam\\examview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\views\\exam\\examview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\views\\lesson\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\views\\lesson\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\views\\lesson\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\views\\lesson\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|c:\\users\\asus\\source\\repos\\examhubproject\\examhubproject\\migrations\\20251218010407_startproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E53355-6309-474E-8412-300477150DB3}|ExamHubProject\\ExamHubProject.csproj|solutionrelative:examhubproject\\migrations\\20251218010407_startproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Site\\Search.cshtml",
+              "RelativeDocumentMoniker": "ExamHubProject\\Views\\Site\\Search.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Site\\Search.cshtml",
+              "RelativeToolTip": "ExamHubProject\\Views\\Site\\Search.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T22:07:26.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SiteController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Controllers\\SiteController.cs",
+              "RelativeDocumentMoniker": "ExamHubProject\\Controllers\\SiteController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Controllers\\SiteController.cs",
+              "RelativeToolTip": "ExamHubProject\\Controllers\\SiteController.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAAAMIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:41:05.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "ExamHubProject\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "ExamHubProject\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAD0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T14:11:12.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LessonController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Controllers\\LessonController.cs",
+              "RelativeDocumentMoniker": "ExamHubProject\\Controllers\\LessonController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Controllers\\LessonController.cs",
+              "RelativeToolTip": "ExamHubProject\\Controllers\\LessonController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowBEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T23:01:06.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "ExamHubProject\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "ExamHubProject\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T19:41:11.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExamView.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Site\\ExamView.cshtml",
+              "RelativeDocumentMoniker": "ExamHubProject\\Views\\Site\\ExamView.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Site\\ExamView.cshtml",
+              "RelativeToolTip": "ExamHubProject\\Views\\Site\\ExamView.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T20:55:48.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Exam\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExamHubProject\\Views\\Exam\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Exam\\Index.cshtml",
+              "RelativeToolTip": "ExamHubProject\\Views\\Exam\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T20:50:09.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SecurityController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Controllers\\SecurityController.cs",
+              "RelativeDocumentMoniker": "ExamHubProject\\Controllers\\SecurityController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Controllers\\SecurityController.cs",
+              "RelativeToolTip": "ExamHubProject\\Controllers\\SecurityController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAQwHEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:43:32.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExamController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Controllers\\ExamController.cs",
+              "RelativeDocumentMoniker": "ExamHubProject\\Controllers\\ExamController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Controllers\\ExamController.cs",
+              "RelativeToolTip": "ExamHubProject\\Controllers\\ExamController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:04:20.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Models\\Entities\\Lesson.cs",
+              "RelativeDocumentMoniker": "ExamHubProject\\Models\\Entities\\Lesson.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Models\\Entities\\Lesson.cs",
+              "RelativeToolTip": "ExamHubProject\\Models\\Entities\\Lesson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:47:00.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MyAverages.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Site\\MyAverages.cshtml",
+              "RelativeDocumentMoniker": "ExamHubProject\\Views\\Site\\MyAverages.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Site\\MyAverages.cshtml",
+              "RelativeToolTip": "ExamHubProject\\Views\\Site\\MyAverages.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T23:36:19.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Models\\Entities\\Exam.cs",
+              "RelativeDocumentMoniker": "ExamHubProject\\Models\\Entities\\Exam.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Models\\Entities\\Exam.cs",
+              "RelativeToolTip": "ExamHubProject\\Models\\Entities\\Exam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T20:44:06.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_SiteLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Shared\\_SiteLayout.cshtml",
+              "RelativeDocumentMoniker": "ExamHubProject\\Views\\Shared\\_SiteLayout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Shared\\_SiteLayout.cshtml",
+              "RelativeToolTip": "ExamHubProject\\Views\\Shared\\_SiteLayout.cshtml",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAEwKwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T19:55:44.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Exam\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ExamHubProject\\Views\\Exam\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Exam\\Edit.cshtml",
+              "RelativeToolTip": "ExamHubProject\\Views\\Exam\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T21:20:30.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Models\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "ExamHubProject\\Models\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Models\\Entities\\Student.cs",
+              "RelativeToolTip": "ExamHubProject\\Models\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T18:58:08.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExamVM.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Models\\Entities\\ExamVM.cs",
+              "RelativeDocumentMoniker": "ExamHubProject\\Models\\Entities\\ExamVM.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Models\\Entities\\ExamVM.cs",
+              "RelativeToolTip": "ExamHubProject\\Models\\Entities\\ExamVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:59:00.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Site\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExamHubProject\\Views\\Site\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Site\\Index.cshtml",
+              "RelativeToolTip": "ExamHubProject\\Views\\Site\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAC5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T19:34:30.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Verification.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Student\\Verification.cshtml",
+              "RelativeDocumentMoniker": "ExamHubProject\\Views\\Student\\Verification.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Student\\Verification.cshtml",
+              "RelativeToolTip": "ExamHubProject\\Views\\Student\\Verification.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-03T20:24:54.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MyAccount.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Student\\MyAccount.cshtml",
+              "RelativeDocumentMoniker": "ExamHubProject\\Views\\Student\\MyAccount.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Student\\MyAccount.cshtml",
+              "RelativeToolTip": "ExamHubProject\\Views\\Student\\MyAccount.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-03T16:58:00.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ExamHubProject\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "ExamHubProject\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-03T20:15:24.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Exam\\Create.cshtml",
+              "RelativeDocumentMoniker": "ExamHubProject\\Views\\Exam\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Exam\\Create.cshtml",
+              "RelativeToolTip": "ExamHubProject\\Views\\Exam\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T20:54:43.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Models\\Entities\\Admin.cs",
+              "RelativeDocumentMoniker": "ExamHubProject\\Models\\Entities\\Admin.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Models\\Entities\\Admin.cs",
+              "RelativeToolTip": "ExamHubProject\\Models\\Entities\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T22:57:37.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Security\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "ExamHubProject\\Views\\Security\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Security\\AccessDenied.cshtml",
+              "RelativeToolTip": "ExamHubProject\\Views\\Security\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T23:13:19.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProjectContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Models\\Context\\ProjectContext.cs",
+              "RelativeDocumentMoniker": "ExamHubProject\\Models\\Context\\ProjectContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Models\\Context\\ProjectContext.cs",
+              "RelativeToolTip": "ExamHubProject\\Models\\Context\\ProjectContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T22:59:30.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Security\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "ExamHubProject\\Views\\Security\\SignIn.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Security\\SignIn.cshtml",
+              "RelativeToolTip": "ExamHubProject\\Views\\Security\\SignIn.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAEcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T16:44:33.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LogIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Security\\LogIn.cshtml",
+              "RelativeDocumentMoniker": "ExamHubProject\\Views\\Security\\LogIn.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Security\\LogIn.cshtml",
+              "RelativeToolTip": "ExamHubProject\\Views\\Security\\LogIn.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T19:15:59.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdminLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Security\\AdminLogin.cshtml",
+              "RelativeDocumentMoniker": "ExamHubProject\\Views\\Security\\AdminLogin.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Security\\AdminLogin.cshtml",
+              "RelativeToolTip": "ExamHubProject\\Views\\Security\\AdminLogin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T01:05:13.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "ExamHubProject\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "ExamHubProject\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T19:41:55.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20251218010407_startProject.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Migrations\\20251218010407_startProject.cs",
+              "RelativeDocumentMoniker": "ExamHubProject\\Migrations\\20251218010407_startProject.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Migrations\\20251218010407_startProject.cs",
+              "RelativeToolTip": "ExamHubProject\\Migrations\\20251218010407_startProject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T01:04:07.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "StudentExam.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Models\\Entities\\StudentExam.cs",
+              "RelativeDocumentMoniker": "ExamHubProject\\Models\\Entities\\StudentExam.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Models\\Entities\\StudentExam.cs",
+              "RelativeToolTip": "ExamHubProject\\Models\\Entities\\StudentExam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T20:03:09.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Models\\Entities\\Class.cs",
+              "RelativeDocumentMoniker": "ExamHubProject\\Models\\Entities\\Class.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Models\\Entities\\Class.cs",
+              "RelativeToolTip": "ExamHubProject\\Models\\Entities\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T20:36:27.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Program.cs",
+              "RelativeDocumentMoniker": "ExamHubProject\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Program.cs",
+              "RelativeToolTip": "ExamHubProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:39:21.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LessonView.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Site\\LessonView.cshtml",
+              "RelativeDocumentMoniker": "ExamHubProject\\Views\\Site\\LessonView.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Site\\LessonView.cshtml",
+              "RelativeToolTip": "ExamHubProject\\Views\\Site\\LessonView.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T19:02:54.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "f225c86d-1bd8-4332-bcbe-5db21e8714fa.jpg",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\f225c86d-1bd8-4332-bcbe-5db21e8714fa.jpg",
+              "RelativeDocumentMoniker": "ExamHubProject\\wwwroot\\img\\f225c86d-1bd8-4332-bcbe-5db21e8714fa.jpg",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\f225c86d-1bd8-4332-bcbe-5db21e8714fa.jpg",
+              "RelativeToolTip": "ExamHubProject\\wwwroot\\img\\f225c86d-1bd8-4332-bcbe-5db21e8714fa.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-14T22:12:20.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ExamView.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Student\\ExamView.cshtml",
+              "RelativeDocumentMoniker": "ExamHubProject\\Views\\Student\\ExamView.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Student\\ExamView.cshtml",
+              "RelativeToolTip": "ExamHubProject\\Views\\Student\\ExamView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T16:45:15.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ExamHubProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ExamHubProject\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T18:41:49.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Exam\\Details.cshtml",
+              "RelativeDocumentMoniker": "ExamHubProject\\Views\\Exam\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Exam\\Details.cshtml",
+              "RelativeToolTip": "ExamHubProject\\Views\\Exam\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T16:18:42.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ExamHubProject\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ExamHubProject\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T19:59:31.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\View.cshtml",
+              "RelativeDocumentMoniker": "ExamHubProject\\Views\\View.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\View.cshtml",
+              "RelativeToolTip": "ExamHubProject\\Views\\View.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T23:33:59.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "StudentExamIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Site\\StudentExamIndex.cshtml",
+              "RelativeDocumentMoniker": "ExamHubProject\\Views\\Site\\StudentExamIndex.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Site\\StudentExamIndex.cshtml",
+              "RelativeToolTip": "ExamHubProject\\Views\\Site\\StudentExamIndex.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAIBJwDMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T15:29:35.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "OpticalDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Models\\Entities\\OpticalDTO.cs",
+              "RelativeDocumentMoniker": "ExamHubProject\\Models\\Entities\\OpticalDTO.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Models\\Entities\\OpticalDTO.cs",
+              "RelativeToolTip": "ExamHubProject\\Models\\Entities\\OpticalDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:39:12.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AverageScoreChart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Student\\AverageScoreChart.cshtml",
+              "RelativeDocumentMoniker": "ExamHubProject\\Views\\Student\\AverageScoreChart.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Student\\AverageScoreChart.cshtml",
+              "RelativeToolTip": "ExamHubProject\\Views\\Student\\AverageScoreChart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T14:24:18.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AvagareScore.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Student\\AvagareScore.cshtml",
+              "RelativeDocumentMoniker": "ExamHubProject\\Views\\Student\\AvagareScore.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Student\\AvagareScore.cshtml",
+              "RelativeToolTip": "ExamHubProject\\Views\\Student\\AvagareScore.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-05T21:07:23.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ExamHubProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ExamHubProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T19:36:49.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ProjectContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Migrations\\ProjectContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ExamHubProject\\Migrations\\ProjectContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Migrations\\ProjectContextModelSnapshot.cs",
+              "RelativeToolTip": "ExamHubProject\\Migrations\\ProjectContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T14:58:58.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "PasswordVerification.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Student\\PasswordVerification.cshtml",
+              "RelativeDocumentMoniker": "ExamHubProject\\Views\\Student\\PasswordVerification.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Student\\PasswordVerification.cshtml",
+              "RelativeToolTip": "ExamHubProject\\Views\\Student\\PasswordVerification.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-03T19:57:20.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExamHubProject\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "ExamHubProject\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T14:24:18.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "ExamHubProject\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "ExamHubProject\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-30T22:43:13.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Lesson\\Create.cshtml",
+              "RelativeDocumentMoniker": "ExamHubProject\\Views\\Lesson\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Lesson\\Create.cshtml",
+              "RelativeToolTip": "ExamHubProject\\Views\\Lesson\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T14:34:23.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "S\u0131gnIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\User\\S\u0131gnIn.cshtml",
+              "RelativeDocumentMoniker": "ExamHubProject\\Views\\User\\S\u0131gnIn.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\User\\S\u0131gnIn.cshtml",
+              "RelativeToolTip": "ExamHubProject\\Views\\User\\S\u0131gnIn.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T16:42:38.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ExamView.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Exam\\ExamView.cshtml",
+              "RelativeDocumentMoniker": "ExamHubProject\\Views\\Exam\\ExamView.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Exam\\ExamView.cshtml",
+              "RelativeToolTip": "ExamHubProject\\Views\\Exam\\ExamView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T21:26:54.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ExamHubProject\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ExamHubProject\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T21:28:52.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Exam\\Detail.cshtml",
+              "RelativeDocumentMoniker": "ExamHubProject\\Views\\Exam\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Exam\\Detail.cshtml",
+              "RelativeToolTip": "ExamHubProject\\Views\\Exam\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T13:47:35.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ExamHubProject\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ExamHubProject\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T21:28:55.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Lesson\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ExamHubProject\\Views\\Lesson\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Lesson\\Edit.cshtml",
+              "RelativeToolTip": "ExamHubProject\\Views\\Lesson\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T14:45:37.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Lesson\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExamHubProject\\Views\\Lesson\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\Views\\Lesson\\Index.cshtml",
+              "RelativeToolTip": "ExamHubProject\\Views\\Lesson\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T14:33:12Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

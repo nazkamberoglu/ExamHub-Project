@@ -1,0 +1,765 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ExamHubProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ExamHubProject.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\css\\sb-admin-2.min.css",
+      "PackagePath": "staticwebassets\\css\\sb-admin-2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\08c68be7-a863-4741-bc60-6348bae30a7e.jpg",
+      "PackagePath": "staticwebassets\\img\\08c68be7-a863-4741-bc60-6348bae30a7e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\09c0e3b6-14ec-454c-979a-9524da3a6b2b.jpg",
+      "PackagePath": "staticwebassets\\img\\09c0e3b6-14ec-454c-979a-9524da3a6b2b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\0d4d2f12-76e8-43d4-a8e0-b97d50f0d3e8.jpg",
+      "PackagePath": "staticwebassets\\img\\0d4d2f12-76e8-43d4-a8e0-b97d50f0d3e8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\1bb229dc-13ed-4d5c-9df3-bae38c5329a8.jpg",
+      "PackagePath": "staticwebassets\\img\\1bb229dc-13ed-4d5c-9df3-bae38c5329a8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\25c3ab05-8546-49b3-9a59-b8dea07459b9.webp",
+      "PackagePath": "staticwebassets\\img\\25c3ab05-8546-49b3-9a59-b8dea07459b9.webp"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\2b8865da-1710-47db-8e03-e0420ff8dbe8.webp",
+      "PackagePath": "staticwebassets\\img\\2b8865da-1710-47db-8e03-e0420ff8dbe8.webp"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\30705e2b-26f5-4d40-aff6-2c074302d0aa.jpg",
+      "PackagePath": "staticwebassets\\img\\30705e2b-26f5-4d40-aff6-2c074302d0aa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\35d4e03d-8072-45f3-ad0f-ad8acb19afde.png",
+      "PackagePath": "staticwebassets\\img\\35d4e03d-8072-45f3-ad0f-ad8acb19afde.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\36832f43-ac99-4c2e-b7c1-8bd95a899e47.jpg",
+      "PackagePath": "staticwebassets\\img\\36832f43-ac99-4c2e-b7c1-8bd95a899e47.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\45417ed2-e1ce-4552-97b3-70ff60a352ec.jpg",
+      "PackagePath": "staticwebassets\\img\\45417ed2-e1ce-4552-97b3-70ff60a352ec.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\46f75ab9-bac5-4ea9-954f-b3f6d4a82c14.jpg",
+      "PackagePath": "staticwebassets\\img\\46f75ab9-bac5-4ea9-954f-b3f6d4a82c14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\49b9b711-dba9-4399-8bbe-e657dfd10e68.jpg",
+      "PackagePath": "staticwebassets\\img\\49b9b711-dba9-4399-8bbe-e657dfd10e68.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\559ea324-409e-403e-97c2-8f2ce9064670.png",
+      "PackagePath": "staticwebassets\\img\\559ea324-409e-403e-97c2-8f2ce9064670.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\6a38b2e4-c43a-48f2-b74f-78230b39dbdc.jpg",
+      "PackagePath": "staticwebassets\\img\\6a38b2e4-c43a-48f2-b74f-78230b39dbdc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\6eeadeb6-d908-430b-8bda-b564f87ef3f3.jpg",
+      "PackagePath": "staticwebassets\\img\\6eeadeb6-d908-430b-8bda-b564f87ef3f3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\72212cf0-b7ed-462e-87a1-27d91b599ab8.jpg",
+      "PackagePath": "staticwebassets\\img\\72212cf0-b7ed-462e-87a1-27d91b599ab8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\7e1b5b44-55b1-4ef3-a7bf-f7fcc6cc8393.jpeg",
+      "PackagePath": "staticwebassets\\img\\7e1b5b44-55b1-4ef3-a7bf-f7fcc6cc8393.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\8451c390-3ca8-4e62-8a99-99c800e4d4ae.png",
+      "PackagePath": "staticwebassets\\img\\8451c390-3ca8-4e62-8a99-99c800e4d4ae.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\8e990fc9-abf7-4bc9-9bc8-db83b139fa06.webp",
+      "PackagePath": "staticwebassets\\img\\8e990fc9-abf7-4bc9-9bc8-db83b139fa06.webp"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\939d025e-af0a-46ff-bf8f-ab45ab05508e.jpg",
+      "PackagePath": "staticwebassets\\img\\939d025e-af0a-46ff-bf8f-ab45ab05508e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\95b94470-ad63-4d5c-a005-b2fd94377597.jpeg",
+      "PackagePath": "staticwebassets\\img\\95b94470-ad63-4d5c-a005-b2fd94377597.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\97733f0e-9b00-42bf-bc75-47316a3ab649.webp",
+      "PackagePath": "staticwebassets\\img\\97733f0e-9b00-42bf-bc75-47316a3ab649.webp"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\aa2cc111-a3e3-4978-912b-254b5d863e94.webp",
+      "PackagePath": "staticwebassets\\img\\aa2cc111-a3e3-4978-912b-254b5d863e94.webp"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\b07a01be-cfb9-4fe0-ac29-fcf76262a1df.jpg",
+      "PackagePath": "staticwebassets\\img\\b07a01be-cfb9-4fe0-ac29-fcf76262a1df.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\b8992060-bd63-4987-a51f-ad442e475651.webp",
+      "PackagePath": "staticwebassets\\img\\b8992060-bd63-4987-a51f-ad442e475651.webp"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\bab315c1-ccdf-4830-a55e-7efc63d3133e.jpg",
+      "PackagePath": "staticwebassets\\img\\bab315c1-ccdf-4830-a55e-7efc63d3133e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\bf61d589-665d-4de5-b400-011fae4ed6eb.jpg",
+      "PackagePath": "staticwebassets\\img\\bf61d589-665d-4de5-b400-011fae4ed6eb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\c0288537-2bad-4656-a23a-a04c05677bae.png",
+      "PackagePath": "staticwebassets\\img\\c0288537-2bad-4656-a23a-a04c05677bae.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\c4123bcd-3762-4c10-975e-7a60c78d5bda.jpg",
+      "PackagePath": "staticwebassets\\img\\c4123bcd-3762-4c10-975e-7a60c78d5bda.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\c8cbd4d9-83c1-41bf-8e86-fcd3e5a9d526.jpg",
+      "PackagePath": "staticwebassets\\img\\c8cbd4d9-83c1-41bf-8e86-fcd3e5a9d526.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\ca972e86-18b5-48e5-9e82-ac37235950ae.png",
+      "PackagePath": "staticwebassets\\img\\ca972e86-18b5-48e5-9e82-ac37235950ae.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\cae46799-865f-41af-a15e-184d09ee69b7.jpg",
+      "PackagePath": "staticwebassets\\img\\cae46799-865f-41af-a15e-184d09ee69b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\cfc3b763-8afa-423a-92b8-0af25b29a266.jpg",
+      "PackagePath": "staticwebassets\\img\\cfc3b763-8afa-423a-92b8-0af25b29a266.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\d07c6b74-9dc4-4bfb-974a-298fa4a64a08.jpg",
+      "PackagePath": "staticwebassets\\img\\d07c6b74-9dc4-4bfb-974a-298fa4a64a08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\d6cea0fc-be09-4248-b38c-446f8634b3eb.jpg",
+      "PackagePath": "staticwebassets\\img\\d6cea0fc-be09-4248-b38c-446f8634b3eb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\d6f9d3ad-e645-45df-9274-64fbfcb67c56.jpg",
+      "PackagePath": "staticwebassets\\img\\d6f9d3ad-e645-45df-9274-64fbfcb67c56.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\de914531-51f1-4aac-a98a-6ce6584c453f.png",
+      "PackagePath": "staticwebassets\\img\\de914531-51f1-4aac-a98a-6ce6584c453f.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\e65c4c79-1fb9-4443-a379-f8946e9c00c5.png",
+      "PackagePath": "staticwebassets\\img\\e65c4c79-1fb9-4443-a379-f8946e9c00c5.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\e77c7a91-30cb-4f93-a3c9-a49911dd5de5.webp",
+      "PackagePath": "staticwebassets\\img\\e77c7a91-30cb-4f93-a3c9-a49911dd5de5.webp"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\e958f90a-895b-4bc7-a808-82625c644566.jpg",
+      "PackagePath": "staticwebassets\\img\\e958f90a-895b-4bc7-a808-82625c644566.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\ea5f1a53-0396-4a63-a2df-746145063862.png",
+      "PackagePath": "staticwebassets\\img\\ea5f1a53-0396-4a63-a2df-746145063862.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\ed67a44d-04d7-4faa-b77f-f0a6b246374c.jpg",
+      "PackagePath": "staticwebassets\\img\\ed67a44d-04d7-4faa-b77f-f0a6b246374c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\f02de621-7d25-4e59-847d-5f162d087e7c.jpg",
+      "PackagePath": "staticwebassets\\img\\f02de621-7d25-4e59-847d-5f162d087e7c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\f225c86d-1bd8-4332-bcbe-5db21e8714fa.jpg",
+      "PackagePath": "staticwebassets\\img\\f225c86d-1bd8-4332-bcbe-5db21e8714fa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\f45c3945-0306-4604-930a-d0b56bceb012.png",
+      "PackagePath": "staticwebassets\\img\\f45c3945-0306-4604-930a-d0b56bceb012.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\f5a86e63-e0e5-47ba-92da-0f25ff4bdbc5.jpg",
+      "PackagePath": "staticwebassets\\img\\f5a86e63-e0e5-47ba-92da-0f25ff4bdbc5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\fb16e5ce-bf45-4569-9256-63dcda45fb5b.webp",
+      "PackagePath": "staticwebassets\\img\\fb16e5ce-bf45-4569-9256-63dcda45fb5b.webp"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\undraw_profile.svg",
+      "PackagePath": "staticwebassets\\img\\undraw_profile.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\undraw_profile_1.svg",
+      "PackagePath": "staticwebassets\\img\\undraw_profile_1.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\undraw_profile_2.svg",
+      "PackagePath": "staticwebassets\\img\\undraw_profile_2.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\undraw_profile_3.svg",
+      "PackagePath": "staticwebassets\\img\\undraw_profile_3.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\img\\undraw_rocket.svg",
+      "PackagePath": "staticwebassets\\img\\undraw_rocket.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\js\\jquery.easing.compatibility.js",
+      "PackagePath": "staticwebassets\\js\\jquery.easing.compatibility.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\js\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\js\\jquery.min.map",
+      "PackagePath": "staticwebassets\\js\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\js\\sb-admin-2.min.js",
+      "PackagePath": "staticwebassets\\js\\sb-admin-2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\03169b65-0902-46f9-a388-e691a29230c0.pdf",
+      "PackagePath": "staticwebassets\\pdf\\03169b65-0902-46f9-a388-e691a29230c0.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\04fe769b-14a4-48fe-ae10-ac1073fadd9f.pdf",
+      "PackagePath": "staticwebassets\\pdf\\04fe769b-14a4-48fe-ae10-ac1073fadd9f.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\0a32284e-d4ae-4d43-a517-731c276e0f1f.pdf",
+      "PackagePath": "staticwebassets\\pdf\\0a32284e-d4ae-4d43-a517-731c276e0f1f.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\0bc4fd19-fa6e-4360-924c-6cc6b9b37878.pdf",
+      "PackagePath": "staticwebassets\\pdf\\0bc4fd19-fa6e-4360-924c-6cc6b9b37878.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\0e39c8cd-4862-4b60-80c6-c186b62285b9.pdf",
+      "PackagePath": "staticwebassets\\pdf\\0e39c8cd-4862-4b60-80c6-c186b62285b9.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\0ebd3bcc-bafd-49ba-8107-55d4e25c770f.pdf",
+      "PackagePath": "staticwebassets\\pdf\\0ebd3bcc-bafd-49ba-8107-55d4e25c770f.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\0fc89500-09c1-435f-84bc-1f4734ebb88b.pdf",
+      "PackagePath": "staticwebassets\\pdf\\0fc89500-09c1-435f-84bc-1f4734ebb88b.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\142e1bf2-4ac8-451d-baa7-3ad5be836a29.pdf",
+      "PackagePath": "staticwebassets\\pdf\\142e1bf2-4ac8-451d-baa7-3ad5be836a29.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\1446957c-e0b3-49aa-82e5-5d3bc0432264.pdf",
+      "PackagePath": "staticwebassets\\pdf\\1446957c-e0b3-49aa-82e5-5d3bc0432264.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\1b66e77f-bd89-452f-870e-534b6d54e076.pdf",
+      "PackagePath": "staticwebassets\\pdf\\1b66e77f-bd89-452f-870e-534b6d54e076.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\1c3e4a23-84f8-4925-83d6-c5a68ebeadf7.pdf",
+      "PackagePath": "staticwebassets\\pdf\\1c3e4a23-84f8-4925-83d6-c5a68ebeadf7.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\2789f9f4-392b-4194-b897-5ee2a1fe46a2.pdf",
+      "PackagePath": "staticwebassets\\pdf\\2789f9f4-392b-4194-b897-5ee2a1fe46a2.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\2fb55963-4995-4e56-86e0-2664d9ae74c9.pdf",
+      "PackagePath": "staticwebassets\\pdf\\2fb55963-4995-4e56-86e0-2664d9ae74c9.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\3c02d6e7-001e-4fb1-b120-c1a4740073e5.pdf",
+      "PackagePath": "staticwebassets\\pdf\\3c02d6e7-001e-4fb1-b120-c1a4740073e5.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\3dc23189-b115-4711-ae31-d27846494f1b.pdf",
+      "PackagePath": "staticwebassets\\pdf\\3dc23189-b115-4711-ae31-d27846494f1b.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\4c49f0e5-d3cf-4c47-a737-ac2df6cf3868.pdf",
+      "PackagePath": "staticwebassets\\pdf\\4c49f0e5-d3cf-4c47-a737-ac2df6cf3868.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\53cea0ae-cc75-4e25-8be4-524adfdb5cfb.pdf",
+      "PackagePath": "staticwebassets\\pdf\\53cea0ae-cc75-4e25-8be4-524adfdb5cfb.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\56ba8b34-88ff-4022-bc6b-f5251fd83405.pdf",
+      "PackagePath": "staticwebassets\\pdf\\56ba8b34-88ff-4022-bc6b-f5251fd83405.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\573af68c-80a3-4037-a51d-a173e957c642.pdf",
+      "PackagePath": "staticwebassets\\pdf\\573af68c-80a3-4037-a51d-a173e957c642.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\5fbe12b2-4b7d-41ae-b894-6f7aee3cec59.pdf",
+      "PackagePath": "staticwebassets\\pdf\\5fbe12b2-4b7d-41ae-b894-6f7aee3cec59.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\600f62db-8f2d-4e1f-8327-b3f5b7588601.pdf",
+      "PackagePath": "staticwebassets\\pdf\\600f62db-8f2d-4e1f-8327-b3f5b7588601.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\60125b51-2c55-4264-95e8-e80dbe1a8da2.pdf",
+      "PackagePath": "staticwebassets\\pdf\\60125b51-2c55-4264-95e8-e80dbe1a8da2.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\61de9b07-21ab-40bd-b415-f57517c42b7e.pdf",
+      "PackagePath": "staticwebassets\\pdf\\61de9b07-21ab-40bd-b415-f57517c42b7e.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\652094de-42b2-40e5-82a8-1cdd0796ceaf.pdf",
+      "PackagePath": "staticwebassets\\pdf\\652094de-42b2-40e5-82a8-1cdd0796ceaf.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\73198714-8c52-404f-ad0f-f5d75ed27a10.pdf",
+      "PackagePath": "staticwebassets\\pdf\\73198714-8c52-404f-ad0f-f5d75ed27a10.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\762c3212-85b4-4408-b772-8dea06fe7b87.pdf",
+      "PackagePath": "staticwebassets\\pdf\\762c3212-85b4-4408-b772-8dea06fe7b87.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\7b1368ef-87f9-4f9c-950c-6863c64915be.pdf",
+      "PackagePath": "staticwebassets\\pdf\\7b1368ef-87f9-4f9c-950c-6863c64915be.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\8074b6c1-cba0-4bf0-a8da-c86fce2668c6.pdf",
+      "PackagePath": "staticwebassets\\pdf\\8074b6c1-cba0-4bf0-a8da-c86fce2668c6.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\83376849-80d3-46a9-8b20-7ebcf9a3a7e6.pdf",
+      "PackagePath": "staticwebassets\\pdf\\83376849-80d3-46a9-8b20-7ebcf9a3a7e6.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\906dd484-768e-4e9c-9eb6-8f2daa423d66.jpg",
+      "PackagePath": "staticwebassets\\pdf\\906dd484-768e-4e9c-9eb6-8f2daa423d66.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\9148f344-a274-469f-967c-37f6b3c9c0d8.pdf",
+      "PackagePath": "staticwebassets\\pdf\\9148f344-a274-469f-967c-37f6b3c9c0d8.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\9a26b7ea-94eb-41c3-8ac7-adaca7a00ff4.pdf",
+      "PackagePath": "staticwebassets\\pdf\\9a26b7ea-94eb-41c3-8ac7-adaca7a00ff4.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\ab3982b1-9884-494d-a5a0-86b82d20627e.pdf",
+      "PackagePath": "staticwebassets\\pdf\\ab3982b1-9884-494d-a5a0-86b82d20627e.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\adb72912-e3f1-4f3c-9938-cc57717a26da.pdf",
+      "PackagePath": "staticwebassets\\pdf\\adb72912-e3f1-4f3c-9938-cc57717a26da.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\ae54de95-9cdd-4ce8-84e6-a6742a4ebb80.pdf",
+      "PackagePath": "staticwebassets\\pdf\\ae54de95-9cdd-4ce8-84e6-a6742a4ebb80.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\ae811398-1877-4284-9cac-71660effd625.pdf",
+      "PackagePath": "staticwebassets\\pdf\\ae811398-1877-4284-9cac-71660effd625.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\b13b0e49-e394-4178-8911-29138bd930f5.pdf",
+      "PackagePath": "staticwebassets\\pdf\\b13b0e49-e394-4178-8911-29138bd930f5.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\b391c3fe-9eba-4c5b-bb57-fa9f7337a069.pdf",
+      "PackagePath": "staticwebassets\\pdf\\b391c3fe-9eba-4c5b-bb57-fa9f7337a069.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\b7113b60-c977-4168-b817-8d846f113f98.pdf",
+      "PackagePath": "staticwebassets\\pdf\\b7113b60-c977-4168-b817-8d846f113f98.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\b9e25ede-d782-4cd6-a855-2d5a156209ad.pdf",
+      "PackagePath": "staticwebassets\\pdf\\b9e25ede-d782-4cd6-a855-2d5a156209ad.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\c0edc68a-9bce-4798-90f9-9e66ea400556.pdf",
+      "PackagePath": "staticwebassets\\pdf\\c0edc68a-9bce-4798-90f9-9e66ea400556.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\c10ebd26-85e8-449b-8614-2f90253b1925.pdf",
+      "PackagePath": "staticwebassets\\pdf\\c10ebd26-85e8-449b-8614-2f90253b1925.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\c28da388-e0de-4961-ad4c-a8307b2f7d9e.pdf",
+      "PackagePath": "staticwebassets\\pdf\\c28da388-e0de-4961-ad4c-a8307b2f7d9e.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\c4131d55-3b57-449c-bb47-5167fc638fa0.pdf",
+      "PackagePath": "staticwebassets\\pdf\\c4131d55-3b57-449c-bb47-5167fc638fa0.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\c989964f-ac87-42c0-9acf-7fdee4aef6d1.pdf",
+      "PackagePath": "staticwebassets\\pdf\\c989964f-ac87-42c0-9acf-7fdee4aef6d1.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\ce1a0dac-c676-449c-9a5c-897be5227ab0.pdf",
+      "PackagePath": "staticwebassets\\pdf\\ce1a0dac-c676-449c-9a5c-897be5227ab0.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\d1c69dfc-c32d-4882-869c-8de590f9a0d4.pdf",
+      "PackagePath": "staticwebassets\\pdf\\d1c69dfc-c32d-4882-869c-8de590f9a0d4.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\d4d956d0-1564-4eaf-9e88-d1c288140f4c.pdf",
+      "PackagePath": "staticwebassets\\pdf\\d4d956d0-1564-4eaf-9e88-d1c288140f4c.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\ddf4aa99-3f9b-4304-8f46-2e803103a039.pdf",
+      "PackagePath": "staticwebassets\\pdf\\ddf4aa99-3f9b-4304-8f46-2e803103a039.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\e13505d2-8972-49ae-b9d2-69fa0b954de7.pdf",
+      "PackagePath": "staticwebassets\\pdf\\e13505d2-8972-49ae-b9d2-69fa0b954de7.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\e1662212-186c-4b87-bd31-235d0633c5ae.pdf",
+      "PackagePath": "staticwebassets\\pdf\\e1662212-186c-4b87-bd31-235d0633c5ae.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\e87b2c0e-9878-4e27-a919-c75ee1e04a58.pdf",
+      "PackagePath": "staticwebassets\\pdf\\e87b2c0e-9878-4e27-a919-c75ee1e04a58.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\eb8387c8-93c6-49f3-9a33-0c7a117d5a83.pdf",
+      "PackagePath": "staticwebassets\\pdf\\eb8387c8-93c6-49f3-9a33-0c7a117d5a83.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\ed9905f9-b237-4594-83af-2d4eba3ee2bb.pdf",
+      "PackagePath": "staticwebassets\\pdf\\ed9905f9-b237-4594-83af-2d4eba3ee2bb.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\ef8be7b9-de57-4605-a26c-ba4dd32c1fc2.pdf",
+      "PackagePath": "staticwebassets\\pdf\\ef8be7b9-de57-4605-a26c-ba4dd32c1fc2.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\f7ab76fd-6ecc-49c0-993d-a7e03c5ddee4.pdf",
+      "PackagePath": "staticwebassets\\pdf\\f7ab76fd-6ecc-49c0-993d-a7e03c5ddee4.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\pdf\\ffbfadf9-b4bf-45d7-9699-4125da583301.pdf",
+      "PackagePath": "staticwebassets\\pdf\\ffbfadf9-b4bf-45d7-9699-4125da583301.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\ExamHubProject\\ExamHubProject\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ExamHubProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ExamHubProject.props",
+      "PackagePath": "build\\ExamHubProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ExamHubProject.props",
+      "PackagePath": "buildMultiTargeting\\ExamHubProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ExamHubProject.props",
+      "PackagePath": "buildTransitive\\ExamHubProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

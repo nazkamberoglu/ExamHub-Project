@@ -1,0 +1,93 @@
+﻿@model ExamHubProject.Models.Entities.Exam
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+<form asp-action="Create" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="ExamName"></label>
+        <input asp-for="ExamName" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="RefLessonID">Lesson</label>
+        <select asp-for="RefLessonID" asp-items="ViewBag.SelectList" class="form-control">
+            <option>Choose lesson</option>
+        </select>
+    </div>
+
+
+    <div class="form-group">
+        <label>Photo</label>
+        <input type="file" name="Photo" class="form-control"  />
+    </div>
+
+
+    <div class="form-group">
+        <label>Question Count</label>
+        <input type="number" asp-for="QuestionCount" class="form-control" min="1" />
+    </div>
+
+    <div class="form-group">
+        <label>Upload PDF</label>
+        <input type="file" name="pdfFile" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <button type="button" id="generateOptic" class="btn btn-secondary">Create Optik</button>
+    </div>
+
+    <table id="optikTable" class="table table-bordered table-sm" style="display:none;">
+        <thead>
+            <tr><th>Question</th><th>Answer</th></tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+
+    <input type="hidden" id="OpticalJson" name="OpticalJson" />
+
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        function buildOptic(count) {
+            var tbody = $("#optikTable tbody");
+            tbody.empty();
+            for (var i = 1; i <= count; i++) {
+                var row = "<tr>" +
+                    "<td>" + i + "</td>" +
+                    "<td>" +
+                    "<select class='form-control answer' style='width:120px'>" +
+                    "<option value=''>Empty</option>" +
+                    "<option value='A'>A</option>" +
+                    "<option value='B'>B</option>" +
+                    "<option value='C'>C</option>" +
+                    "<option value='D'>D</option>" +
+                    "<option value='E'>E</option>" +
+                    "</select>" +
+                    "</td></tr>";
+                tbody.append(row);
+            }
+            $("#optikTable").show();
+        }
+
+        $("#generateOptic").click(function () {
+            var count = parseInt($("input[name='QuestionCount']").val());
+            if (count > 0) buildOptic(count);
+        });
+
+        $("form").on("submit", function () {
+            var answers = [];
+            $("#optikTable tbody tr").each(function () {
+                var no = $(this).find("td").eq(0).text();
+                var val = $(this).find(".answer").val();
+                answers.push({ QuestionNo: parseInt(no), Answer: val || "" });
+            });
+            $("#OpticalJson").val(JSON.stringify(answers));
+        });
+    </script>
+}

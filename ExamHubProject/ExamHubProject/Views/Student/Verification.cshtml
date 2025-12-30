@@ -1,0 +1,40 @@
+﻿@model ExamVM
+@{
+    ViewData["Title"] = "Verification";
+    Layout = "~/Views/Shared/_SiteLayout.cshtml";
+}
+<div class="row mt-5"> 
+
+    <div class="col-md-8 mx-auto ">
+
+        <div class="card password-card justify-content-between ">
+
+        <p><span>Please enter your current password</span></p>
+
+        <form method="post" asp-action="Verification">
+        <input type="password" name="password"/>
+                <div class="d-flex justify-content-between">
+                    <button type="submit" class="btn-success">Continue</button>
+                    <button class="btn-danger" asp-controller="Student" asp-action="MyAccount">Cancel</button>
+                </div>
+     
+
+            </form>
+    </div>
+
+
+    @if(ViewBag.ErrorNull!=null)
+        {
+            <p class="alert-danger">@ViewBag.ErrorNull</p>
+        }
+        @if (ViewBag.Error != null)
+        {
+            <p class="alert-danger">@ViewBag.Error</p>
+        }
+
+
+    </div>
+
+
+
+</div>

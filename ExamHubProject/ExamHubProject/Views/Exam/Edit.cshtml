@@ -1,0 +1,108 @@
+﻿@model ExamHubProject.Models.Entities.Exam
+
+<form asp-action="Edit" enctype="multipart/form-data">
+
+    <input type="hidden" asp-for="ExamID" />
+
+    <div class="form-group">
+        <label asp-for="ExamName"></label>
+        <input asp-for="ExamName" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Lesson</label>
+        <select asp-for="RefLessonID" asp-items="ViewBag.SelectList" class="form-control">
+            <option>Choose lesson</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label>Question Count</label>
+        <input asp-for="QuestionCount" type="number" min="1" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Upload PDF (optional)</label>
+        <input type="file" name="pdfFile" class="form-control" />
+
+        @if (!string.IsNullOrEmpty(Model.PdfPath))
+        {
+            <small>
+                Current PDF:
+                <a href="@Model.PdfPath" target="_blank">View PDF</a>
+            </small>
+        }
+    </div>
+
+    <div class="form-group">
+        <label>Photo (optional)</label>
+        <input type="file" name="Photo" class="form-control" />
+
+        @if (!string.IsNullOrEmpty(Model.Photo))
+        {
+            <br />
+            <img src="@Model.Photo" width="150" class="img-thumbnail" />
+        }
+    </div>
+
+  
+    <h5>Optical Answers</h5>
+    <input type="hidden" id="OpticalJson" name="OpticalJson" value="@Model.OpticalJson" />
+
+    <table id="optikTable" class="table table-bordered table-sm">
+        <thead>
+            <tr><th>Question</th><th>Answer</th></tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+
+    <button type="submit" class="btn btn-primary">Update</button>
+</form>
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <script>
+        var existingOptic = @Html.Raw(Model.OpticalJson ?? "[]");
+
+        function buildOpticFromJson(data) {
+            var tbody = $("#optikTable tbody");
+            tbody.empty();
+
+            data.forEach(x => {
+                var row = `
+                    <tr>
+                        <td>${x.QuestionNo}</td>
+                        <td>
+                            <select class="form-control answer" style="width:120px">
+                                <option value="">Empty</option>
+                                <option ${x.Answer == 'A' ? 'selected' : ''}>A</option>
+                                <option ${x.Answer == 'B' ? 'selected' : ''}>B</option>
+                                <option ${x.Answer == 'C' ? 'selected' : ''}>C</option>
+                                <option ${x.Answer == 'D' ? 'selected' : ''}>D</option>
+                                <option ${x.Answer == 'E' ? 'selected' : ''}>E</option>
+                            </select>
+                        </td>
+                    </tr>`;
+                tbody.append(row);
+            });
+        }
+
+        $(document).ready(function () {
+            if (existingOptic.length > 0) {
+                buildOpticFromJson(existingOptic);
+            }
+        });
+
+        $("form").on("submit", function () {
+            var answers = [];
+            $("#optikTable tbody tr").each(function () {
+                answers.push({
+                    QuestionNo: parseInt($(this).find("td:first").text()),
+                    Answer: $(this).find(".answer").val() || ""
+                });
+            });
+            $("#OpticalJson").val(JSON.stringify(answers));
+        });
+    </script>
+}

@@ -1,0 +1,29 @@
+﻿@model ExamVM
+@{
+    ViewData["Title"] = "AverageScoreChart";
+    Layout = "~/Views/Shared/_SiteLayout.cshtml";
+}
+
+<canvas id="averageChart"></canvas>
+
+
+@section Scripts {
+    <script>
+        var lessonNames = @Html.Raw(Json.Serialize(Model.LessonNames));
+        var lessonAverages = @Html.Raw(Json.Serialize(Model.LessonAverages));
+
+        var ctx = document.getElementById("averageChart");
+
+        new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: lessonNames,
+                datasets: [{
+                    label: "Ders Ortalamaları",
+                    data: lessonAverages,
+                    borderWidth: 1
+                }]
+            }
+        });
+    </script>
+}

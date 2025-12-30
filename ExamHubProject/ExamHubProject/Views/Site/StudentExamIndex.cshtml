@@ -1,0 +1,56 @@
+﻿@model StudentExam
+
+@{
+    ViewData["Title"] = "StudentExamIndex";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>StudentExamIndex</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Student)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Exam)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ExamDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StudentAnswersJson)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ExamScore)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => @Model.Student.StudentLastName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => @Model.Exam.ExamID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => @Model.ExamDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => @Model.StudentAnswersJson)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => Model.ExamScore)
+            </td>
+            
+        </tr>
+}
+    </tbody>
+</table>

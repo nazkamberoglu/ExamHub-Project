@@ -1,0 +1,50 @@
+﻿@model ExamVM
+@{
+    ViewData["Title"] = "LessonView";
+    Layout = "~/Views/Shared/_SiteLayout.cshtml";
+}
+
+<div class="row g-4">
+    @foreach (var item in Model.Lesson.Exams)
+    {
+        <div class="col-md-3 col-sm-6">
+            <div class="card exam-card h-100 text-center shadow-sm">
+
+                <div class="card-body d-flex flex-column align-items-center">
+
+                    <img src="@item.Photo"
+                         class="rounded-circle mb-3 exam-img"
+                         alt="Exam Image" />
+
+                    <h6 class="fw-bold">@item.ExamName</h6>
+
+                    <a asp-controller="Site"
+                       asp-action="ExamView"
+                       asp-route-id="@item.ExamID"
+                       class="btn btn-primary btn-sm mt-auto">
+                        Open Exam
+                    </a>
+
+                </div>
+            </div>
+        </div>
+    }
+</div>
+<style>
+    .exam-card {
+        border-radius: 16px;
+        transition: transform .2s ease, box-shadow .2s ease;
+    }
+
+    .exam-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+    }
+
+    .exam-img {
+        width: 90px;
+        height: 90px;
+        object-fit: cover;
+        border: 3px solid #0d6efd;
+    }
+</style>

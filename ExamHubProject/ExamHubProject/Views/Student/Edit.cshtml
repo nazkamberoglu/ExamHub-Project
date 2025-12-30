@@ -1,0 +1,48 @@
+﻿@model ExamVM
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_SiteLayout.cshtml";
+}
+
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="@Model.Student.StudentID" />
+            <div class="form-group">
+                <label asp-for="@Model.Student.StudentName" class="control-label"></label>
+                <input asp-for="@Model.Student.StudentName" class="form-control" />
+                <span asp-validation-for="@Model.Student.StudentName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.Student.StudentLastName" class="control-label"></label>
+                <input asp-for="@Model.Student.StudentLastName" class="form-control" />
+                <span asp-validation-for="@Model.Student.StudentLastName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.Student.UserName" class="control-label"></label>
+                <input asp-for="@Model.Student.UserName" class="form-control" />
+                <span asp-validation-for="@Model.Student.UserName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.Student.Password" class="control-label"></label>
+                <input asp-for="@Model.Student.Password" class="form-control" />
+                <span asp-validation-for="@Model.Student.Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Edit" class="btn btn-primary" />
+            </div>
+        </form>
+        @if(ViewBag.Info!=null)
+        {
+            <div class="alert-info">
+                <p>Your information has been successfully updated.</p>
+            </div>
+        }
+        
+    </div>
+</div>
+
+
